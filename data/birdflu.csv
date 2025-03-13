@@ -1,0 +1,666 @@
+FullGeoName,FIPS Codes,County Name,State,Outbreak Date,Flock Type,Flock Size,State Count,Outbreaks,Counties
+"VA, Accomack",51001,Accomack,Virginia,1/21/2025,Commercial Broiler Production,441000,0,1,1
+"ID, Ada",16001,Ada,Idaho,5/24/2022,WOAH Non-Poultry; WOAH Poultry,316,0,11,1
+"OK, Adair",40001,Adair,Oklahoma,12/24/2024,Commercial Turkey Meat Bird; WOAH Poultry; Commercial Broiler Breeder,230100,0,4,1
+"PA, Adams",42001,Adams,Pennsylvania,10/17/2022,Commercial Turkey Meat Bird; WOAH Poultry; WOAH Non-Poultry,17930,0,3,1
+"IN, Adams",18001,Adams,Indiana,3/7/2025,Commercial Duck Breeder; Commercial Turkey Meat Bird,23100,0,2,1
+"VA, Alexandria City",51510,Alexandria City,Virginia,2/23/2023,Live Bird Market,800,0,1,1
+"PA, Allegheny",42003,Allegheny,Pennsylvania,11/2/2022,WOAH Non-Poultry,40,0,2,1
+"OH, Allen",39003,Allen,Ohio,9/14/2022,WOAH Non-Poultry,2,0,1,1
+"IN, Allen",18003,Allen,Indiana,6/9/2022,WOAH Non-Poultry; WOAH Poultry,26307,0,5,1
+"MI, Alpena",26007,Alpena,Michigan,2/4/2025,WOAH Non-Poultry,8,0,1,1
+"KS, Anderson",20003,Anderson,Kansas,12/27/2024,WOAH Non-Poultry; Commercial Upland Gamebird Producer,8940,0,2,1
+"MD, Anne Arundel",24003,Anne Arundel,Maryland,9/22/2022,WOAH Non-Poultry,4,0,1,1
+"MN, Anoka",27003,Anoka,Minnesota,5/6/2022,WOAH Non-Poultry,10,0,1,1
+"CO, Arapahoe",08005,Arapahoe,Colorado,3/24/2023,WOAH Non-Poultry,30,0,2,1
+"AR, Arkansas",05001,Arkansas,Arkansas,12/1/2022,WOAH Non-Poultry,20,0,1,1
+"OH, Ashland",39005,Ashland,Ohio,9/3/2022,WOAH Non-Poultry,640,0,1,1
+"MO, Audrain",29007,Audrain,Missouri,12/28/2023,WOAH Poultry,330,1,1,1
+"OH, Auglaize",39011,Auglaize,Ohio,2/13/2025,Commercial Table Egg Layer; Commercial Turkey Meat Bird,221600,0,2,1
+"ND, Barnes",38003,Barnes,North Dakota,4/13/2022,WOAH Poultry,90,0,1,1
+"MA, Barnstable",25001,Barnstable,Massachusetts,1/16/2024,WOAH Non-Poultry,150,0,1,1
+"WI, Barron",55005,Barron,Wisconsin,12/13/2024,Commercial Turkey Breeder Hens; Commercial Turkey Meat Bird; WOAH Non-Poultry,450950,0,10,1
+"MO, Barry",29009,Barry,Missouri,1/31/2025,Commercial Turkey Meat Bird,34000,0,1,1
+"KS, Barton",20009,Barton,Kansas,12/19/2023,WOAH Non-Poultry,100,0,2,1
+"MO, Bates",29013,Bates,Missouri,12/21/2022,WOAH Non-Poultry,80,0,2,1
+"MI, Bay",26017,Bay,Michigan,12/1/2023,WOAH Non-Poultry,60,0,1,1
+"WI, Bayfield",55007,Bayfield,Wisconsin,5/23/2022,WOAH Non-Poultry,40,0,1,1
+"SD, Beadle",46005,Beadle,South Dakota,12/10/2024,Commercial Turkey Meat Bird,789000,0,15,1
+"SC, Beaufort",45013,Beaufort,South Carolina,11/3/2022,WOAH Non-Poultry,170,0,1,1
+"MN, Becker",27005,Becker,Minnesota,12/6/2023,Commercial Breeder Operation; Commercial Turkey Breeder Hens; Commercial Turkey Breeder Toms; WOAH Non-Poultry; Commercial Turkey Meat Bird,128540,0,7,1
+"NH, Belknap",33001,Belknap,New Hampshire,1/23/2023,WOAH Non-Poultry,40,0,1,1
+"CO, Bent",08011,Bent,Colorado,11/30/2023,WOAH Poultry,4100,0,1,1
+"OR, Benton",41003,Benton,Oregon,12/20/2023,WOAH Non-Poultry,50,0,1,1
+"IA, Benton",19011,Benton,Iowa,11/16/2023,WOAH Non-Poultry,90,0,1,1
+"MO, Benton",29015,Benton,Missouri,11/6/2023,Commercial Broiler Breeder,16600,0,1,1
+"MN, Benton",27009,Benton,Minnesota,4/13/2022,WOAH Non-Poultry,137,0,2,1
+"WA, Benton",53005,Benton,Washington,2/14/2023,WOAH Non-Poultry,60,0,1,1
+"NJ, Bergen",34003,Bergen,New Jersey,11/2/2022,WOAH Non-Poultry,60,1,1,1
+"PA, Berks",42011,Berks,Pennsylvania,11/17/2022,WOAH Non-Poultry; Commercial Duck Meat Bird; Commercial Duck Breeder; Commercial Table Egg Layer; Commercial Table Egg Breeder,369740,0,11,1
+"MA, Berkshire",25003,Berkshire,Massachusetts,3/29/2022,WOAH Non-Poultry,260,0,1,1
+"NM, Bernalillo",35001,Bernalillo,New Mexico,10/4/2022,WOAH Non-Poultry,90,0,2,1
+"AK, Bethel Ca",02050,Bethel,Alaska,8/2/2022,WOAH Non-Poultry,20,0,1,1
+"MN, Big Stone",27011,Big Stone,Minnesota,11/21/2023,Commercial Turkey Meat Bird,128000,0,2,1
+"ID, Bingham",16011,Bingham,Idaho,3/6/2023,WOAH Non-Poultry,10,0,1,1
+"TN, Bledsoe",47007,Bledsoe,Tennessee,11/15/2022,Commercial Broiler Breeder,20900,0,1,1
+"MN, Blue Earth",27013,Blue Earth,Minnesota,10/24/2023,Commercial Turkey Meat Bird,72500,0,4,1
+"SD, Bon Homme",46009,Bon Homme,South Dakota,12/17/2024,Commercial Turkey Meat Bird; WOAH Non-Poultry,144730,0,4,1
+"ID, Bonneville",16019,Bonneville,Idaho,11/13/2023,WOAH Non-Poultry,90,0,2,1
+"IL, Boone",17007,Boone,Illinois,5/17/2022,WOAH Non-Poultry,20,0,1,1
+"LA, Bossier Parish",22015,Bossier,Louisiana,12/14/2024,WOAH Non-Poultry,40,0,1,1
+"ND, Bottineau",38009,Bottineau,North Dakota,12/2/2024,WOAH Poultry,160,0,2,1
+"CO, Boulder",08013,Boulder,Colorado,10/7/2022,WOAH Poultry,600,0,1,1
+"NE, Box Butte",31013,Box Butte,Nebraska,10/4/2022,WOAH Non-Poultry,100,0,1,1
+"MI, Branch",26023,Branch,Michigan,4/30/2022,WOAH Non-Poultry,20,0,1,1
+"TX, Brazoria",48039,Brazoria,Texas,1/9/2025,WOAH Non-Poultry,90,0,1,1
+"IA, Bremer",19017,Bremer,Iowa,5/4/2022,WOAH Non-Poultry; Commercial Turkey Meat Bird,29250,0,2,1
+"MA, Bristol",25005,Bristol,Massachusetts,9/15/2022,WOAH Non-Poultry,50,0,1,1
+"NY, Bronx",36005,Bronx,New York,3/7/2025,Live Bird Market,1100,0,3,1
+"SD, Brookings",46011,Brookings,South Dakota,12/1/2022,WOAH Non-Poultry,210,0,1,1
+"FL, Broward",12011,Broward,Florida,11/23/2022,WOAH Non-Poultry; WOAH Poultry,525,0,8,1
+"MN, Brown",27015,Brown,Minnesota,11/27/2023,Commercial Turkey Breeder Hens; WOAH Non-Poultry; Commercial Turkey Meat Bird,100920,0,5,1
+"SD, Brule",46015,Brule,South Dakota,12/11/2024,Commercial Turkey Meat Bird; WOAH Non-Poultry; Commercial Upland Gamebird Producer,151630,0,5,1
+"PA, Bucks",42017,Bucks,Pennsylvania,3/6/2023,WOAH Poultry,1700,0,1,1
+"IA, Buena Vista",19021,Buena Vista,Iowa,12/12/2022,Commercial Turkey Meat Bird; Commercial Table Egg Layer,5712100,0,10,1
+"ND, Burke",38013,Burke,North Dakota,5/17/2022,WOAH Non-Poultry,50,0,1,1
+"TX, Burnet",48053,Burnet,Texas,1/9/2025,WOAH Non-Poultry,10,0,1,1
+"WI, Burnett",55013,Burnett,Wisconsin,12/27/2024,Commercial Turkey Meat Bird,18600,1,1,1
+"OH, Butler",39017,Butler,Ohio,11/7/2022,WOAH Poultry,150,0,1,1
+"NE, Butler",31023,Butler,Nebraska,3/24/2022,Commercial Broiler Production,988500,0,2,1
+"PA, Butler",42019,Butler,Pennsylvania,2/20/2025,WOAH Non-Poultry,610,0,1,1
+"CA, Butte",06007,Butte,California,12/31/2024,WOAH Non-Poultry; Commercial Raised for Release Upland Game Bird,39890,0,4,1
+"UT, Cache",49005,Cache,Utah,10/15/2024,Commercial Table Egg Layer; WOAH Non-Poultry,3354440,0,4,1
+"CA, Calaveras",06009,Calaveras,California,10/3/2022,WOAH Non-Poultry,20,0,1,1
+"LA, Calcasieu Parish",22019,Calcasieu,Louisiana,2/7/2025,WOAH Non-Poultry,10,0,1,1
+"VT, Caledonia",50005,Caledonia,Vermont,4/28/2022,WOAH Non-Poultry,30,0,1,1
+"WY, Campbell",56005,Campbell,Wyoming,5/20/2022,WOAH Non-Poultry,30,0,1,1
+"ID, Canyon",16027,Canyon,Idaho,12/1/2023,WOAH Non-Poultry; WOAH Poultry,735,0,18,1
+"ID, Caribou",16029,Caribou,Idaho,4/14/2022,WOAH Non-Poultry,7,0,1,1
+"MD, Caroline",24011,Caroline,Maryland,11/21/2023,Commercial Broiler Production,529600,0,3,1
+"VA, Caroline",51033,Caroline,Virginia,8/29/2022,WOAH Non-Poultry,110,0,1,1
+"AR, Carroll",05015,Carroll,Arkansas,12/7/2023,Commercial Turkey Meat Bird; Commercial Broiler Production,114500,0,2,1
+"IL, Carroll",17015,Carroll,Illinois,3/31/2022,WOAH Non-Poultry,40,0,1,1
+"MO, Carroll",29033,Carroll,Missouri,2/13/2023,WOAH Non-Poultry,9,0,1,1
+"TX, Carson",48065,Carson,Texas,12/29/2023,WOAH Non-Poultry,30,1,1,1
+"NV, Carson City",32510,Carson City,Nevada,7/7/2022,WOAH Non-Poultry,40,0,1,1
+"OK, Carter",40019,Carter,Oklahoma,10/16/2023,WOAH Non-Poultry,80,0,1,1
+"MN, Carver",27019,Carver,Minnesota,5/4/2022,WOAH Non-Poultry,50,0,2,1
+"MT, Cascade",30013,Cascade,Montana,4/7/2022,WOAH Poultry; WOAH Non-Poultry,22060,0,3,1
+"MO, Cass",29037,Cass,Missouri,12/24/2024,WOAH Non-Poultry,60,0,1,1
+"MI, Cass",26027,Cass,Michigan,11/15/2023,WOAH Non-Poultry,20,0,1,1
+"ND, Cass",38017,Cass,North Dakota,9/1/2022,WOAH Non-Poultry,116,0,2,1
+"ID, Cassia",16031,Cassia,Idaho,5/6/2024,WOAH Non-Poultry,640,0,2,1
+"MD, Cecil",24015,Cecil,Maryland,3/18/2022,Commercial Table Egg Pullets; Commercial Table Egg Layer,1622800,0,3,1
+"MO, Cedar",29039,Cedar,Missouri,12/10/2024,WOAH Non-Poultry,20,0,1,1
+"IA, Cerro Gordo",19033,Cerro Gordo,Iowa,11/14/2023,WOAH Non-Poultry,80,0,1,1
+"MD, Charles",24017,Charles,Maryland,2/22/2024,WOAH Non-Poultry,30,0,1,1
+"SD, Charles Mix",46023,Charles Mix,South Dakota,12/20/2023,Commercial Upland Gamebird Producer; WOAH Poultry; Commercial Turkey Meat Bird,606850,0,13,1
+"IA, Cherokee",19035,Cherokee,Iowa,12/12/2022,Commercial Turkey Meat Bird,343000,0,4,1
+"PA, Chester",42029,Chester,Pennsylvania,3/16/2023,Commercial Turkey Meat Bird; WOAH Poultry,27300,0,4,1
+"IA, Chickasaw",19037,Chickasaw,Iowa,3/15/2023,WOAH Non-Poultry,50,0,1,1
+"AL, Chilton",01021,Chilton,Alabama,10/27/2023,Commercial Upland Gamebird Producer,306500,0,1,1
+"MN, Chippewa",27023,Chippewa,Minnesota,12/20/2024,Commercial Turkey Meat Bird,54800,0,1,1
+"MN, Chisago",27025,Chisago,Minnesota,5/12/2022,WOAH Non-Poultry; WOAH Poultry,320,0,5,1
+"NV, Churchill",32001,Churchill,Nevada,2/18/2025,WOAH Non-Poultry,20,0,1,1
+"OR, Clackamas",41005,Clackamas,Oregon,12/9/2022,WOAH Non-Poultry; Commercial Table Egg Layer,150070,0,3,1
+"WA, Clallam",53009,Clallam,Washington,5/11/2022,WOAH Non-Poultry,20,0,2,1
+"SD, Clark",46025,Clark,South Dakota,12/5/2022,Commercial Turkey Meat Bird; WOAH Non-Poultry; Commercial Upland Gamebird Producer,316340,0,11,1
+"OR, Clatsop",41007,Clatsop,Oregon,12/14/2023,WOAH Non-Poultry,30,0,1,1
+"AR, Clay",05021,Clay,Arkansas,12/30/2024,Commercial Broiler Production,227500,1,1,1
+"IA, Clay",19041,Clay,Iowa,11/6/2023,WOAH Poultry,17700,0,3,1
+"MN, Clay",27027,Clay,Minnesota,5/18/2022,WOAH Non-Poultry,100,0,2,1
+"FL, Clay",12019,Clay,Florida,4/30/2024,WOAH Non-Poultry,20,0,1,1
+"GA, Clayton",13063,Clayton,Georgia,1/9/2025,WOAH Non-Poultry,10,0,1,1
+"OK, Cleveland",40027,Cleveland,Oklahoma,10/21/2022,WOAH Non-Poultry,30,0,1,1
+"AR, Cleveland",05025,Cleveland,Arkansas,1/24/2025,Commercial Broiler Breeder; Commercial Broiler Production,126400,0,2,1
+"IA, Clinton",19045,Clinton,Iowa,1/7/2025,WOAH Non-Poultry,40,0,1,1
+"SD, Codington",46029,Codington,South Dakota,5/20/2022,WOAH Poultry,220,0,2,1
+"KS, Coffey",20031,Coffey,Kansas,12/27/2024,WOAH Non-Poultry,50,0,1,1
+"NE, Colfax",31037,Colfax,Nebraska,11/28/2023,WOAH Non-Poultry,20,0,1,1
+"FL, Collier",12021,Collier,Florida,2/27/2025,WOAH Non-Poultry,30,0,1,1
+"OR, Columbia",41009,Columbia,Oregon,12/13/2022,WOAH Non-Poultry,130,0,2,1
+"WI, Columbia",55021,Columbia,Wisconsin,4/14/2022,WOAH Non-Poultry,70,0,1,1
+"NY, Columbia",36021,Columbia,New York,2/15/2023,WOAH Poultry,250,0,1,1
+"CA, Contra Costa",06013,Contra Costa,California,8/23/2022,WOAH Non-Poultry,60,0,1,1
+"WY, Converse",56009,Converse,Wyoming,11/7/2022,WOAH Non-Poultry,20,0,1,1
+"IL, Cook",17031,Cook,Illinois,1/22/2025,WOAH Poultry,500,0,1,1
+"MO, Cooper",29053,Cooper,Missouri,12/27/2024,Commercial Turkey Breeder Hens,27900,0,2,1
+"OR, Coos",41011,Coos,Oregon,12/19/2024,WOAH Non-Poultry,60,0,2,1
+"MS, Copiah",28029,Copiah,Mississippi,12/30/2024,Commercial Broiler Production; WOAH Poultry,210050,1,2,1
+"WA, Cowlitz",53015,Cowlitz,Washington,8/26/2022,WOAH Non-Poultry,20,0,1,1
+"AR, Craighead",05031,Craighead,Arkansas,12/20/2024,WOAH Non-Poultry,60,0,2,1
+"OK, Creek",40037,Creek,Oklahoma,10/20/2022,WOAH Non-Poultry,50,0,1,1
+"OR, Crook",41013,Crook,Oregon,10/25/2024,WOAH Non-Poultry,180,0,1,1
+"MN, Crow Wing",27035,Crow Wing,Minnesota,5/10/2022,WOAH Poultry; WOAH Non-Poultry,310,0,2,1
+"PR, Culebra",72049,Culebra,Puerto Rico,1/13/2025,WOAH Poultry,380,1,1,1
+"AL, Cullman",01043,Cullman,Alabama,12/19/2024,Commercial Broiler Production,116000,0,1,1
+"ME, Cumberland",23005,Cumberland,Maine,6/29/2022,WOAH Non-Poultry; WOAH Poultry,380,0,4,1
+"PA, Cumberland",42041,Cumberland,Pennsylvania,2/11/2025,Commercial Duck Meat Bird; Commercial Broiler Production,46400,0,2,1
+"MO, Dade",29057,Dade,Missouri,12/24/2024,WOAH Non-Poultry; Commercial Turkey Meat Bird,14120,0,3,1
+"MN, Dakota",27037,Dakota,Minnesota,5/21/2022,Commercial Turkey Meat Bird,134300,0,2,1
+"IA, Dallas",19049,Dallas,Iowa,10/20/2022,WOAH Non-Poultry,150,0,2,1
+"TX, Dallas",48113,Dallas,Texas,9/24/2022,WOAH Non-Poultry,60,0,1,1
+"MO, Dallas",29059,Dallas,Missouri,2/23/2024,WOAH Poultry; Commercial Turkey Meat Bird,92100,0,4,1
+"NC, Dare",37055,Dare,North Carolina,2/28/2025,WOAH Non-Poultry,20,0,1,1
+"OH, Darke",39037,Darke,Ohio,12/27/2024,Commercial Table Egg Layer; Commercial Turkey Meat Bird; Commercial Table Egg Pullets,9383300,1,23,1
+"PA, Dauphin",42043,Dauphin,Pennsylvania,11/4/2022,WOAH Non-Poultry; Commercial Table Egg Layer,1975430,0,2,1
+"TN, Davidson",47037,Davidson,Tennessee,11/23/2022,WOAH Non-Poultry,10,0,1,1
+"IN, Daviess",18027,Daviess,Indiana,12/13/2022,Commercial Turkey Meat Bird,24500,1,2,1
+"MO, Daviess",29061,Daviess,Missouri,12/10/2024,WOAH Poultry,19900,0,1,1
+"NE, Dawes",31045,Dawes,Nebraska,9/19/2022,WOAH Non-Poultry,40,0,1,1
+"SD, Day",46037,Day,South Dakota,11/20/2023,WOAH Poultry,140,0,2,1
+"FL, De Soto",12027,De Soto,Florida,1/26/2024,WOAH Non-Poultry,660,0,1,1
+"TX, Deaf Smith",48117,Deaf Smith,Texas,3/20/2024,WOAH Non-Poultry,50,0,1,1
+"OH, Defiance",39039,Defiance,Ohio,9/3/2022,Commercial Table Egg Layer,3748500,0,1,1
+"CA, Del Norte",06015,Del Norte,California,10/4/2022,WOAH Poultry,43000,0,1,1
+"NY, Delaware",36025,Delaware,New York,2/21/2025,WOAH Non-Poultry,240,0,1,1
+"CO, Delta",08029,Delta,Colorado,2/8/2024,Commercial Broiler Breeder,66500,0,1,1
+"TX, Denton",48121,Denton,Texas,12/6/2022,WOAH Non-Poultry,40,0,1,1
+"OR, Deschutes",41017,Deschutes,Oregon,12/19/2024,WOAH Non-Poultry; WOAH Poultry,658,0,9,1
+"SD, Deuel",46039,Deuel,South Dakota,4/13/2022,Commercial Upland Gamebird Producer,1400,0,1,1
+"ND, Dickey",38021,Dickey,North Dakota,11/29/2023,WOAH Poultry; Commercial Turkey Meat Bird,179660,0,5,1
+"KS, Dickinson",20041,Dickinson,Kansas,3/18/2022,WOAH Poultry,250,0,1,1
+"NE, Dixon",31051,Dixon,Nebraska,11/25/2022,Commercial Table Egg Layer,3446900,0,2,1
+"NE, Dodge",31053,Dodge,Nebraska,12/21/2023,WOAH Non-Poultry,50,0,2,1
+"MN, Dodge",27039,Dodge,Minnesota,12/8/2022,Commercial Turkey Meat Bird; Commercial Breeder Operation,44100,0,3,1
+"KS, Doniphan",20043,Doniphan,Kansas,12/18/2024,Commercial Raised for Release Upland Game Bird; WOAH Non-Poultry,5730,0,2,1
+"MD, Dorchester",24019,Dorchester,Maryland,1/22/2025,Commercial Broiler Production,143900,0,1,1
+"KS, Douglas",20045,Douglas,Kansas,12/3/2024,WOAH Non-Poultry,100,0,1,1
+"MN, Douglas",27041,Douglas,Minnesota,11/29/2023,Commercial Turkey Meat Bird,13500,0,1,1
+"OR, Douglas",41019,Douglas,Oregon,9/30/2022,WOAH Non-Poultry,30,0,2,1
+"NV, Douglas",32005,Douglas,Nevada,3/3/2023,WOAH Non-Poultry,20,0,1,1
+"IN, Dubois",18037,Dubois,Indiana,3/2/2022,Commercial Turkey Meat Bird,108100,0,4,1
+"MA, Dukes",25007,Dukes,Massachusetts,2/26/2025,WOAH Non-Poultry,50,0,1,1
+"WI, Dunn",55033,Dunn,Wisconsin,9/29/2022,Commercial Turkey Meat Bird; WOAH Non-Poultry,79650,0,2,1
+"NC, Duplin",37061,Duplin,North Carolina,2/20/2024,Commercial Turkey Meat Bird,20900,0,1,1
+"NC, Durham",37063,Durham,North Carolina,11/25/2022,WOAH Non-Poultry,30,0,1,1
+"NY, Dutchess",36027,Dutchess,New York,12/12/2023,WOAH Poultry; WOAH Non-Poultry,4400,1,2,1
+"FL, Duval",12031,Duval,Florida,12/16/2022,WOAH Non-Poultry,90,1,3,1
+"MI, Eaton",26045,Eaton,Michigan,3/14/2023,WOAH Non-Poultry,20,0,1,1
+"SD, Edmunds",46045,Edmunds,South Dakota,12/30/2023,Commercial Upland Gamebird Producer; Commercial Turkey Meat Bird; Commercial Turkey Breeder Hens; Commercial Turkey Breeder Replacement Hens,289700,0,13,1
+"CA, El Dorado",06017,El Dorado,California,12/23/2024,WOAH Non-Poultry,200,0,3,1
+"GA, Elbert",13105,Elbert,Georgia,1/21/2025,Commercial Broiler Production; Commercial Broiler Breeder,175900,0,2,1
+"KS, Elk",20049,Elk,Kansas,12/28/2022,WOAH Non-Poultry,30,1,1,1
+"IN, Elkhart",18039,Elkhart,Indiana,9/1/2022,WOAH Poultry; Commercial Duck Meat Bird; Commercial Duck Breeder,23960,0,6,1
+"TX, Ellis",48139,Ellis,Texas,11/14/2023,WOAH Non-Poultry,50,0,1,1
+"KS, Ellsworth",20053,Ellsworth,Kansas,3/24/2023,WOAH Non-Poultry,50,0,1,1
+"ND, Emmons",38029,Emmons,North Dakota,11/28/2023,WOAH Non-Poultry,60,0,1,1
+"TX, Erath",48143,Erath,Texas,4/3/2022,Commercial Upland Gamebird Producer,1700,0,1,1
+"MA, Essex",25009,Essex,Massachusetts,3/7/2024,WOAH Poultry; WOAH Non-Poultry,90,0,2,1
+"AL, Etowah",01055,Etowah,Alabama,12/12/2023,WOAH Non-Poultry,80,0,1,1
+"SD, Fall River",46047,Fall River,South Dakota,11/17/2023,WOAH Non-Poultry,80,0,1,1
+"SD, Faulk",46049,Faulk,South Dakota,11/27/2024,Commercial Turkey Meat Bird,203600,0,4,1
+"VA, Fauquier",51061,Fauquier,Virginia,2/12/2022,WOAH Non-Poultry,90,0,1,1
+"KY, Fayette",21067,Fayette,Kentucky,10/6/2022,WOAH Poultry,150,0,1,1
+"MT, Fergus",30027,Fergus,Montana,5/6/2022,WOAH Non-Poultry,130,0,2,1
+"MN, Fillmore",27045,Fillmore,Minnesota,12/19/2024,Commercial Turkey Meat Bird,28600,0,1,1
+"MT, Flathead",30029,Flathead,Montana,12/16/2022,WOAH Non-Poultry,55,0,4,1
+"WI, Fond Du Lac",55039,Fond Du Lac,Wisconsin,5/3/2022,WOAH Non-Poultry,20,0,1,1
+"VT, Franklin",50011,Franklin,Vermont,12/24/2024,WOAH Non-Poultry,20,1,1,1
+"WA, Franklin",53021,Franklin,Washington,12/14/2022,Commercial Table Egg Layer,2163000,0,3,1
+"ID, Franklin",16041,Franklin,Idaho,12/10/2024,WOAH Non-Poultry,40,0,1,1
+"OH, Franklin",39049,Franklin,Ohio,3/29/2022,WOAH Non-Poultry,18,0,2,1
+"IA, Franklin",19069,Franklin,Iowa,3/25/2022,Commercial Table Egg Pullets,250200,0,1,1
+"KS, Franklin",20059,Franklin,Kansas,3/11/2022,WOAH Poultry,260,0,1,1
+"MN, Freeborn",27047,Freeborn,Minnesota,11/24/2023,WOAH Non-Poultry,328,0,2,1
+"WY, Fremont",56013,Fremont,Wyoming,10/12/2022,WOAH Non-Poultry,80,0,2,1
+"CA, Fresno",06019,Fresno,California,12/3/2024,Commercial Broiler Production; Commercial Duck Breeder; Commercial Turkey Meat Bird; WOAH Non-Poultry; Commercial Broiler Breeder,1699900,0,19,1
+"NY, Fulton",36035,Fulton,New York,4/6/2022,WOAH Non-Poultry,4,0,1,1
+"KY, Fulton",21075,Fulton,Kentucky,2/12/2022,Commercial Broiler Production,231400,0,1,1
+"NE, Gage",31067,Gage,Nebraska,2/6/2024,Commercial Broiler Production,102000,0,1,1
+"MT, Gallatin",30031,Gallatin,Montana,4/29/2022,WOAH Non-Poultry,20,0,1,1
+"OK, Garfield",40047,Garfield,Oklahoma,12/27/2023,WOAH Non-Poultry,30,1,1,1
+"ID, Gem",16045,Gem,Idaho,12/20/2022,WOAH Non-Poultry,80,0,1,1
+"MI, Genesee",26049,Genesee,Michigan,10/12/2022,WOAH Non-Poultry,20,0,1,1
+"MO, Gentry",29075,Gentry,Missouri,3/26/2022,WOAH Non-Poultry,140,0,1,1
+"TN, Gibson",47053,Gibson,Tennessee,11/29/2024,Commercial Broiler Breeder,37700,0,1,1
+"MT, Glacier",30035,Glacier,Montana,10/10/2023,WOAH Poultry; WOAH Non-Poultry,132400,0,3,1
+"CA, Glenn",06021,Glenn,California,12/22/2022,Commercial Upland Gamebird Producer,32000,0,1,1
+"VA, Gloucester",51073,Gloucester,Virginia,11/7/2022,WOAH Non-Poultry,80,1,1,1
+"ND, Golden Valley",38033,Golden Valley,North Dakota,10/13/2023,WOAH Non-Poultry,90,0,1,1
+"MN, Goodhue",27049,Goodhue,Minnesota,9/27/2022,WOAH Non-Poultry,80,0,1,1
+"ID, Gooding",16047,Gooding,Idaho,9/21/2022,Commercial Upland Gamebird Producer; WOAH Non-Poultry; WOAH Poultry,9100,0,3,1
+"OK, Grady",40051,Grady,Oklahoma,11/2/2023,WOAH Non-Poultry,120,0,1,1
+"AZ, Graham",04009,Graham,Arizona,2/19/2025,WOAH Non-Poultry,280,0,1,1
+"MT, Granite",30039,Granite,Montana,11/1/2022,WOAH Poultry,40,0,1,1
+"SD, Grant",46051,Grant,South Dakota,10/25/2022,WOAH Non-Poultry,50,0,1,1
+"MN, Grant",27051,Grant,Minnesota,5/12/2022,WOAH Non-Poultry,310,0,1,1
+"KS, Grant",20067,Grant,Kansas,4/10/2024,WOAH Poultry,17700,0,1,1
+"MI, Gratiot",26057,Gratiot,Michigan,5/2/2024,Commercial Turkey Meat Bird,54100,0,2,1
+"MS, Greene",28041,Greene,Mississippi,12/20/2024,Commercial Broiler Breeder,26000,0,1,1
+"OH, Greene",39057,Greene,Ohio,12/19/2024,WOAH Poultry,110,0,1,1
+"IN, Greene",18055,Greene,Indiana,2/23/2022,Commercial Turkey Meat Bird,63600,0,2,1
+"TN, Greene",47059,Greene,Tennessee,1/16/2025,WOAH Non-Poultry,30,0,1,1
+"SD, Gregory",46053,Gregory,South Dakota,11/1/2022,Commercial Upland Gamebird Producer; WOAH Non-Poultry,3290,0,3,1
+"TX, Grimes",48185,Grimes,Texas,11/21/2023,WOAH Non-Poultry,60,0,1,1
+"IL, Grundy",17063,Grundy,Illinois,11/30/2022,WOAH Poultry,8800,0,1,1
+"NC, Guilford",37081,Guilford,North Carolina,3/28/2024,WOAH Non-Poultry,80,0,1,1
+"IA, Guthrie",19077,Guthrie,Iowa,10/24/2023,WOAH Non-Poultry; Commercial Table Egg Layer,1460050,0,2,1
+"TX, Hale",48189,Hale,Texas,3/22/2023,WOAH Non-Poultry,20,0,1,1
+"IA, Hamilton",19079,Hamilton,Iowa,11/6/2023,Commercial Breeder (Multiple Bird Species); Commercial Turkey Poult Supplier; Commercial Turkey Meat Bird,48900,0,3,1
+"SD, Hamlin",46057,Hamlin,South Dakota,12/8/2022,Commercial Turkey Meat Bird; WOAH Non-Poultry,164340,0,5,1
+"VA, Hampton City",51650,Hampton City,Virginia,10/6/2022,WOAH Non-Poultry,40,0,1,1
+"ME, Hancock",23009,Hancock,Maine,2/6/2023,WOAH Non-Poultry,70,0,2,1
+"SD, Hanson",46061,Hanson,South Dakota,12/20/2022,Commercial Turkey Meat Bird; WOAH Non-Poultry,255550,0,7,1
+"OH, Hardin",39065,Hardin,Ohio,12/27/2023,Commercial Table Egg Pullets; Commercial Table Egg Layer,3977500,0,2,1
+"IA, Hardin",19083,Hardin,Iowa,4/5/2022,Commercial Turkey Meat Bird,46000,0,1,1
+"MO, Harrison",29081,Harrison,Missouri,12/6/2022,WOAH Non-Poultry,30,0,1,1
+"KS, Harvey",20079,Harvey,Kansas,2/4/2025,WOAH Non-Poultry,50,0,1,1
+"FL, Hendry",12051,Hendry,Florida,7/24/2024,WOAH Non-Poultry,5,0,1,1
+"MN, Hennepin",27053,Hennepin,Minnesota,9/1/2022,WOAH Non-Poultry,10,0,1,1
+"IL, Henry",17073,Henry,Illinois,11/19/2024,WOAH Poultry,5600,0,1,1
+"GA, Henry",13151,Henry,Georgia,8/22/2022,WOAH Non-Poultry,80,0,1,1
+"MT, Hill",30041,Hill,Montana,10/20/2022,WOAH Non-Poultry,60,0,1,1
+"FL, Hillsborough",12057,Hillsborough,Florida,11/16/2022,WOAH Non-Poultry; Live Bird Market,1650,0,6,1
+"NE, Holt",31089,Holt,Nebraska,3/26/2022,WOAH Non-Poultry,50,0,1,1
+"HI, Honolulu",15003,Honolulu,Hawaii,11/18/2024,WOAH Non-Poultry,79,1,2,1
+"SC, Horry",45051,Horry,South Carolina,1/17/2024,WOAH Non-Poultry,190,0,1,1
+"WY, Hot Springs",56017,Hot Springs,Wyoming,2/28/2025,WOAH Non-Poultry,10,0,1,1
+"MN, Houston",27055,Houston,Minnesota,12/20/2024,WOAH Non-Poultry,60,0,1,1
+"MO, Howard",29089,Howard,Missouri,12/18/2024,WOAH Non-Poultry,60,0,1,1
+"IA, Humboldt",19091,Humboldt,Iowa,4/2/2022,Commercial Table Egg Breeder,15300,0,1,1
+"SD, Hutchinson",46067,Hutchinson,South Dakota,12/9/2024,Commercial Turkey Meat Bird,209400,0,5,1
+"NC, Hyde",37095,Hyde,North Carolina,1/7/2025,Commercial Table Egg Layer,3314900,0,1,1
+"IA, Ida",19093,Ida,Iowa,12/12/2022,Commercial Turkey Meat Bird,90000,0,1,1
+"FL, Indian River",12061,Indian River,Florida,10/25/2022,WOAH Non-Poultry; WOAH Poultry,440,0,4,1
+"MI, Ingham",26065,Ingham,Michigan,9/13/2022,WOAH Poultry,20,0,1,1
+"MI, Ionia",26067,Ionia,Michigan,5/10/2024,WOAH Non-Poultry; Commercial Table Egg Layer,6498790,0,4,1
+"UT, Iron",49021,Iron,Utah,11/28/2022,WOAH Poultry,3000,0,1,1
+"MN, Isanti",27059,Isanti,Minnesota,9/14/2022,WOAH Non-Poultry,4,0,1,1
+"MN, Itasca",27061,Itasca,Minnesota,10/21/2022,WOAH Non-Poultry,40,0,1,1
+"MI, Jackson",26075,Jackson,Michigan,12/31/2024,WOAH Non-Poultry,9,1,1,1
+"AR, Jackson",05067,Jackson,Arkansas,12/19/2024,WOAH Non-Poultry,230,0,1,1
+"MO, Jackson",29095,Jackson,Missouri,12/1/2022,WOAH Non-Poultry,70,0,2,1
+"OR, Jackson",41029,Jackson,Oregon,11/1/2024,WOAH Non-Poultry,60,0,1,1
+"IN, Jackson",18071,Jackson,Indiana,1/28/2025,Commercial Table Egg Layer,2633900,0,1,1
+"MO, Jasper",29097,Jasper,Missouri,11/14/2023,Commercial Turkey Meat Bird,188500,0,5,1
+"IN, Jasper",18073,Jasper,Indiana,2/25/2025,WOAH Non-Poultry,90,0,1,1
+"IN, Jay",18075,Jay,Indiana,3/4/2025,Commercial Table Egg Layer; Commercial Turkey Meat Bird,4206100,0,9,1
+"ID, Jefferson",16051,Jefferson,Idaho,12/10/2024,WOAH Non-Poultry,60,0,1,1
+"WI, Jefferson",55055,Jefferson,Wisconsin,11/7/2022,Commercial Upland Gamebird Producer; Commercial Table Egg Layer,2938600,0,2,1
+"CO, Jefferson",08059,Jefferson,Colorado,10/20/2022,WOAH Poultry; WOAH Non-Poultry,60,0,2,1
+"WA, Jefferson",53031,Jefferson,Washington,7/26/2022,WOAH Non-Poultry,100,0,2,1
+"LA, Jefferson Davis Parish",22053,Jefferson Davis,Louisiana,12/18/2024,WOAH Non-Poultry,30,1,1,1
+"SD, Jerauld",46073,Jerauld,South Dakota,10/4/2023,Commercial Turkey Meat Bird,91300,0,2,1
+"ID, Jerome",16053,Jerome,Idaho,6/10/2024,WOAH Non-Poultry; WOAH Poultry,1240,0,5,1
+"KS, Jewell",20089,Jewell,Kansas,12/10/2024,WOAH Non-Poultry,40,0,1,1
+"NE, Johnson",31097,Johnson,Nebraska,12/30/2024,Commercial Broiler Production,209100,1,1,1
+"AR, Johnson",05071,Johnson,Arkansas,12/4/2023,Commercial Broiler Production,109000,0,1,1
+"KS, Johnson",20091,Johnson,Kansas,10/7/2022,WOAH Poultry,6,0,1,1
+"IN, Johnson",18081,Johnson,Indiana,4/28/2022,WOAH Non-Poultry,40,0,1,1
+"WY, Johnson",56019,Johnson,Wyoming,3/29/2022,WOAH Non-Poultry,40,0,1,1
+"MO, Johnson",29101,Johnson,Missouri,1/4/2023,WOAH Non-Poultry,30,0,1,1
+"NC, Johnston",37101,Johnston,North Carolina,4/2/2022,Commercial Turkey Meat Bird,60500,0,3,1
+"IA, Jones",19105,Jones,Iowa,11/14/2023,WOAH Non-Poultry,20,0,1,1
+"OR, Josephine",41033,Josephine,Oregon,1/4/2023,WOAH Non-Poultry,30,0,1,1
+"MT, Judith Basin",30045,Judith Basin,Montana,4/7/2022,WOAH Non-Poultry,20,0,1,1
+"MI, Kalamazoo",26077,Kalamazoo,Michigan,2/23/2022,WOAH Non-Poultry,30,0,1,1
+"WV, Kanawha",54039,Kanawha,West Virginia,2/16/2024,WOAH Non-Poultry,250,1,1,1
+"MN, Kandiyohi",27067,Kandiyohi,Minnesota,11/24/2023,Commercial Turkey Breeder Hens; Commercial Breeder Operation; Commercial Turkey Meat Bird; Commercial Turkey Breeder Toms,415000,0,15,1
+"IL, Kane",17089,Kane,Illinois,5/3/2022,WOAH Non-Poultry,50,0,1,1
+"NE, Kearney",31099,Kearney,Nebraska,1/27/2025,WOAH Non-Poultry,90,0,1,1
+"ME, Kennebec",23011,Kennebec,Maine,2/6/2023,WOAH Non-Poultry,80,0,2,1
+"WI, Kenosha",55059,Kenosha,Wisconsin,12/19/2024,WOAH Poultry,6,0,1,1
+"DE, Kent",10001,Kent,Delaware,9/24/2022,WOAH Non-Poultry; Commercial Broiler Production,613440,1,6,1
+"CA, Kern",06029,Kern,California,12/9/2024,WOAH Poultry; Commercial Table Egg Layer,3222900,0,3,1
+"ND, Kidder",38043,Kidder,North Dakota,3/29/2022,WOAH Poultry,30,0,1,1
+"WA, King",53033,King,Washington,12/19/2023,WOAH Poultry; WOAH Non-Poultry,589,0,9,1
+"CA, Kings",06031,Kings,California,11/14/2024,Commercial Broiler Production; WOAH Non-Poultry,859808,0,6,1
+"NY, Kings",36047,Kings,New York,8/3/2023,Live Bird Market,3330,0,8,1
+"SD, Kingsbury",46077,Kingsbury,South Dakota,12/12/2024,Commercial Turkey Meat Bird; WOAH Non-Poultry; Commercial Table Egg Layer,228290,0,7,1
+"WA, Kitsap",53035,Kitsap,Washington,10/17/2024,WOAH Non-Poultry,76,0,3,1
+"WA, Kittitas",53037,Kittitas,Washington,10/27/2023,WOAH Poultry,70,0,1,1
+"OR, Klamath",41035,Klamath,Oregon,3/22/2023,WOAH Non-Poultry,50,0,3,1
+"NE, Knox",31107,Knox,Nebraska,12/14/2022,WOAH Poultry; WOAH Non-Poultry; Commercial Table Egg Layer,2118170,0,3,1
+"ME, Knox",23013,Knox,Maine,3/29/2022,WOAH Non-Poultry,230,0,5,1
+"IA, Kossuth",19109,Kossuth,Iowa,11/14/2023,WOAH Poultry; WOAH Non-Poultry,21204,0,3,1
+"CO, La Plata",08067,La Plata,Colorado,12/10/2024,WOAH Non-Poultry; WOAH Poultry,120,0,4,1
+"MN, Lac Qui Parle",27073,Lac Qui Parle,Minnesota,3/29/2022,Commercial Turkey Meat Bird,22500,0,1,1
+"AR, Lafayette",05073,Lafayette,Arkansas,12/9/2024,WOAH Non-Poultry,40,0,1,1
+"IN, La Grange",18087,Lagrange,Indiana,2/25/2025,Commercial Duck Breeder,3800,0,1,1
+"SD, Lake",46079,Lake,South Dakota,12/12/2023,Commercial Turkey Meat Bird; WOAH Non-Poultry,213020,0,4,1
+"FL, Lake",12069,Lake,Florida,10/25/2022,WOAH Non-Poultry,9,0,1,1
+"VT, Lamoille",50015,Lamoille,Vermont,12/6/2022,WOAH Non-Poultry,50,0,1,1
+"ND, La Moure",38045,Lamoure,North Dakota,11/15/2023,Commercial Turkey Meat Bird; WOAH Non-Poultry,103410,0,4,1
+"TX, Lampasas",48281,Lampasas,Texas,1/18/2023,WOAH Poultry,70,0,1,1
+"NE, Lancaster",31109,Lancaster,Nebraska,12/17/2024,WOAH Poultry,290,0,1,1
+"PA, Lancaster",42071,Lancaster,Pennsylvania,9/29/2022,WOAH Non-Poultry; Commercial Table Egg Layer; Commercial Duck Meat Bird; Commercial Broiler Breeder Pullets; Commercial Broiler Production; WOAH Poultry; Commercial Duck Breeder; Commercial Turkey Meat Bird,4224300,0,37,1
+"OR, Lane",41039,Lane,Oregon,5/17/2022,WOAH Poultry,450,0,1,1
+"MI, Lapeer",26087,Lapeer,Michigan,11/10/2022,WOAH Poultry,2080,0,4,1
+"CO, Larimer",08069,Larimer,Colorado,12/6/2022,WOAH Non-Poultry,112,0,5,1
+"CA, Lassen",06035,Lassen,California,12/19/2023,WOAH Non-Poultry,90,0,1,1
+"ID, Latah",16057,Latah,Idaho,12/15/2023,WOAH Poultry,200,0,1,1
+"IL, Lawrence",17101,Lawrence,Illinois,12/23/2024,Commercial Turkey Meat Bird,41400,1,1,1
+"AL, Lawrence",01079,Lawrence,Alabama,12/5/2022,WOAH Non-Poultry,460,0,1,1
+"MS, Lawrence",28077,Lawrence,Mississippi,11/4/2022,Commercial Broiler Breeder,34400,0,1,1
+"MO, Lawrence",29109,Lawrence,Missouri,4/5/2022,Commercial Turkey Meat Bird; Commercial Turkey Breeder Replacement Hens; Commercial Turkey Breeder Hens,168700,0,7,1
+"MN, Le Sueur",27079,Le Sueur,Minnesota,10/27/2022,Commercial Turkey Meat Bird; WOAH Non-Poultry,77600,0,4,1
+"MS, Leake",28079,Leake,Mississippi,2/7/2023,Commercial Broiler Production,89800,0,1,1
+"PA, Lebanon",42075,Lebanon,Pennsylvania,2/7/2025,Commercial Broiler Production; Commercial Table Egg Layer,138600,0,2,1
+"PA, Lehigh",42077,Lehigh,Pennsylvania,11/10/2022,Commercial Turkey Meat Bird; Commercial Turkey Breeder Toms; Commercial Turkey Breeder Hens; WOAH Poultry,134560,0,7,1
+"ID, Lemhi",16059,Lemhi,Idaho,12/17/2024,WOAH Non-Poultry,190,0,3,1
+"NC, Lenoir",37107,Lenoir,North Carolina,2/9/2024,Commercial Turkey Meat Bird,32400,0,1,1
+"WA, Lewis",53041,Lewis,Washington,10/25/2024,WOAH Non-Poultry,60,0,1,1
+"MT, Lewis And Clark",30049,Lewis And Clark,Montana,11/30/2023,WOAH Non-Poultry,6,0,1,1
+"OH, Licking",39089,Licking,Ohio,1/18/2023,WOAH Non-Poultry,30,0,1,1
+"TN, Lincoln",47103,Lincoln,Tennessee,10/31/2023,WOAH Non-Poultry,100,0,1,1
+"ID, Lincoln",16063,Lincoln,Idaho,9/27/2024,WOAH Poultry,700,0,1,1
+"WY, Lincoln",56023,Lincoln,Wyoming,5/13/2022,WOAH Non-Poultry,40,0,1,1
+"ME, Lincoln",23015,Lincoln,Maine,3/30/2022,WOAH Non-Poultry,133,0,3,1
+"NE, Lincoln",31111,Lincoln,Nebraska,2/21/2023,WOAH Poultry,420,0,1,1
+"OR, Linn",41043,Linn,Oregon,12/13/2022,WOAH Non-Poultry; Commercial Broiler Production,630850,0,4,1
+"IL, Livingston",17105,Livingston,Illinois,12/13/2024,Commercial Turkey Breeder Hens,40500,0,1,1
+"MI, Livingston",26093,Livingston,Michigan,4/15/2022,WOAH Non-Poultry,20,0,1,1
+"KY, Logan",21141,Logan,Kentucky,10/11/2022,WOAH Non-Poultry,190,1,1,1
+"IA, Louisa",19115,Louisa,Iowa,11/8/2022,WOAH Non-Poultry,20,0,1,1
+"MS, Lowndes",28087,Lowndes,Mississippi,11/14/2022,WOAH Non-Poultry,8,0,1,1
+"PA, Luzerne",42079,Luzerne,Pennsylvania,2/20/2025,WOAH Non-Poultry,90,0,1,1
+"MN, Lyon",27083,Lyon,Minnesota,6/12/2024,Commercial Turkey Meat Bird,209800,0,2,1
+"MI, Macomb",26099,Macomb,Michigan,9/19/2022,WOAH Non-Poultry,150,0,3,1
+"CA, Madera",06039,Madera,California,11/21/2024,WOAH Non-Poultry; Commercial Duck Meat Bird,18600,0,2,1
+"AR, Madison",05087,Madison,Arkansas,10/31/2023,Commercial Broiler Breeder Pullets,87600,0,2,1
+"ID, Madison",16065,Madison,Idaho,4/20/2022,WOAH Poultry,200,0,1,1
+"NY, Madison",36053,Madison,New York,2/11/2025,WOAH Non-Poultry,20,0,1,1
+"IA, Mahaska",19123,Mahaska,Iowa,12/20/2023,WOAH Non-Poultry,30,1,1,1
+"OH, Mahoning",39099,Mahoning,Ohio,2/27/2024,WOAH Non-Poultry,140,0,1,1
+"OR, Malheur",41045,Malheur,Oregon,11/13/2024,WOAH Non-Poultry,8,0,1,1
+"WI, Marathon",55073,Marathon,Wisconsin,11/3/2022,WOAH Non-Poultry,30,0,1,1
+"AZ, Maricopa",04013,Maricopa,Arizona,11/21/2024,WOAH Non-Poultry,490,1,1,1
+"MO, Maries",29125,Maries,Missouri,3/16/2023,WOAH Non-Poultry,10,0,1,1
+"CA, Marin",06041,Marin,California,12/28/2023,Commercial Table Egg Pullets; Commercial Duck Meat Bird,157500,0,2,1
+"WI, Marinette",55075,Marinette,Wisconsin,5/13/2022,WOAH Non-Poultry,90,0,1,1
+"OR, Marion",41047,Marion,Oregon,11/16/2023,Commercial Broiler Production; WOAH Non-Poultry,123505,0,2,1
+"AL, Marshall",01095,Marshall,Alabama,11/2/2023,Commercial Broiler Breeder Pullets,47900,0,1,1
+"MN, Martin",27091,Martin,Minnesota,11/18/2024,WOAH Non-Poultry,70,0,2,1
+"FL, Martin",12085,Martin,Florida,10/25/2022,WOAH Non-Poultry,80,0,2,1
+"WA, Mason",53045,Mason,Washington,2/10/2025,WOAH Non-Poultry,7,0,1,1
+"AK, Matanuska-Susitna Borough",02170,Matanuska Susitna,Alaska,11/26/2024,WOAH Non-Poultry; WOAH Poultry,1350,1,10,1
+"MO, Mcdonald",29119,Mcdonald,Missouri,1/31/2025,Commercial Broiler Production; Commercial Turkey Meat Bird; Commercial Broiler Breeder; Primary Broiler Breeder Pedigree Farm,162050,0,4,1
+"ND, Mchenry",38049,Mchenry,North Dakota,11/22/2024,WOAH Poultry,110,0,2,1
+"ND, Mcintosh",38051,Mcintosh,North Dakota,12/29/2023,WOAH Non-Poultry; WOAH Poultry,260,1,3,1
+"IL, Mclean",17113,Mclean,Illinois,3/11/2022,WOAH Non-Poultry,40,0,1,1
+"KS, Mcpherson",20113,Mcpherson,Kansas,12/19/2023,WOAH Poultry; Commercial Turkey Breeder Hens,46900,0,3,1
+"SD, Mcpherson",46089,Mcpherson,South Dakota,12/4/2023,Commercial Turkey Meat Bird; Commercial Turkey Breeder Hens,564700,0,11,1
+"MN, Meeker",27093,Meeker,Minnesota,11/29/2024,Commercial Turkey Meat Bird; Commercial Table Egg Layer,2783600,0,17,1
+"CA, Mendocino",06045,Mendocino,California,12/19/2022,WOAH Non-Poultry,20,0,1,1
+"MI, Menominee",26109,Menominee,Michigan,4/25/2022,WOAH Non-Poultry; WOAH Poultry,490,0,4,1
+"CA, Merced",06047,Merced,California,12/26/2023,Commercial Table Egg Layer; Commercial Turkey Meat Bird; Commercial Table Egg Pullets; Commercial Duck Meat Bird; Commercial Broiler Production; Commercial Duck Breeder; WOAH Non-Poultry,8721930,0,24,1
+"OH, Mercer",39107,Mercer,Ohio,3/6/2025,Commercial Turkey Meat Bird; Commercial Table Egg Layer; WOAH Poultry; Commercial Table Egg Pullets; Commercial Duck Meat Bird,6121700,0,47,1
+"NE, Merrick",31121,Merrick,Nebraska,3/15/2022,WOAH Non-Poultry,90,0,1,1
+"NH, Merrimack",33013,Merrimack,New Hampshire,9/23/2022,WOAH Poultry,250,1,1,1
+"CO, Mesa",08077,Mesa,Colorado,9/29/2022,WOAH Non-Poultry,40,0,1,1
+"FL, Miami-Dade",12086,Miami-dade,Florida,10/7/2024,Live Bird Sales  (non-slaughter); WOAH Poultry; Live Bird Market,8480,0,9,1
+"MA, Middlesex",25017,Middlesex,Massachusetts,11/3/2022,WOAH Non-Poultry,20,1,1,1
+"PA, Mifflin",42087,Mifflin,Pennsylvania,3/15/2023,WOAH Non-Poultry,60,0,1,1
+"IA, Mills",19129,Mills,Iowa,12/8/2023,WOAH Non-Poultry,10,0,1,1
+"SD, Miner",46097,Miner,South Dakota,12/31/2024,WOAH Poultry,1500,1,1,1
+"SD, Minnehaha",46099,Minnehaha,South Dakota,11/30/2023,WOAH Non-Poultry,80,0,1,1
+"MT, Missoula",30063,Missoula,Montana,12/28/2023,WOAH Non-Poultry; WOAH Poultry,360,1,4,1
+"KS, Mitchell",20123,Mitchell,Kansas,4/10/2023,WOAH Non-Poultry; Commercial Upland Gamebird Producer; WOAH Poultry; Commercial Raised for Release Upland Game Bird,67070,0,9,1
+"CA, Modoc",06049,Modoc,California,4/12/2023,WOAH Non-Poultry,60,0,1,1
+"CO, Moffat",08081,Moffat,Colorado,4/17/2023,WOAH Non-Poultry,120,0,2,1
+"NJ, Monmouth",34025,Monmouth,New Jersey,5/17/2022,WOAH Poultry,60,0,1,1
+"IA, Monona",19133,Monona,Iowa,12/17/2024,WOAH Non-Poultry,30,0,1,1
+"PA, Monroe",42089,Monroe,Pennsylvania,10/5/2022,WOAH Non-Poultry,70,0,2,1
+"NY, Monroe",36055,Monroe,New York,3/29/2022,WOAH Poultry; WOAH Non-Poultry,420,0,2,1
+"MS, Monroe",28095,Monroe,Mississippi,3/16/2023,WOAH Non-Poultry,30,0,1,1
+"MI, Monroe",26115,Monroe,Michigan,3/6/2025,WOAH Non-Poultry,80,0,3,1
+"CA, Monterey",06053,Monterey,California,12/14/2024,Commercial Duck Breeder,28800,0,2,1
+"IN, Montgomery",18107,Montgomery,Indiana,3/10/2025,WOAH Non-Poultry,20,0,1,1
+"MD, Montgomery",24031,Montgomery,Maryland,1/31/2025,WOAH Non-Poultry,10,0,1,1
+"MI, Montmorency",26119,Montmorency,Michigan,12/7/2023,WOAH Poultry,100,0,1,1
+"CO, Montrose",08085,Montrose,Colorado,11/13/2023,WOAH Non-Poultry; Commercial Broiler Breeder,58050,0,2,1
+"SD, Moody",46101,Moody,South Dakota,12/14/2022,Commercial Table Egg Layer; Commercial Turkey Meat Bird,1378800,0,2,1
+"TX, Moore",48341,Moore,Texas,3/11/2024,WOAH Non-Poultry,280,0,1,1
+"CO, Morgan",08087,Morgan,Colorado,11/29/2023,WOAH Non-Poultry,100,0,2,1
+"MN, Morrison",27097,Morrison,Minnesota,9/7/2022,Commercial Turkey Meat Bird; WOAH Non-Poultry; Commercial Table Egg Layer; Commercial Broiler Production,779650,0,14,1
+"ND, Mountrail",38061,Mountrail,North Dakota,11/10/2022,WOAH Non-Poultry,40,0,1,1
+"MN, Mower",27099,Mower,Minnesota,3/26/2022,WOAH Non-Poultry,20,0,1,1
+"OR, Multnomah",41051,Multnomah,Oregon,3/4/2025,WOAH Non-Poultry,40,0,1,1
+"MI, Muskegon",26121,Muskegon,Michigan,12/27/2023,Commercial Turkey Meat Bird,114500,0,3,1
+"NE, Nance",31125,Nance,Nebraska,1/30/2025,WOAH Non-Poultry,70,0,1,1
+"ND, Nelson",38063,Nelson,North Dakota,12/18/2024,WOAH Non-Poultry,110,0,2,1
+"NE, Nemaha",31127,Nemaha,Nebraska,12/6/2024,Commercial Turkey Breeder Hens,12400,0,1,1
+"KS, Neosho",20133,Neosho,Kansas,10/7/2022,WOAH Poultry,2000,0,1,1
+"DE, New Castle",10003,New Castle,Delaware,3/8/2022,Commercial Table Egg Pullets; Commercial Table Egg Layer,1290800,0,2,1
+"CT, New Haven",09009,New Haven,Connecticut,10/5/2022,WOAH Non-Poultry,80,1,2,1
+"CT, New London",09011,New London,Connecticut,3/1/2022,WOAH Non-Poultry,200,0,3,1
+"MI, Newaygo",26123,Newaygo,Michigan,4/17/2024,Commercial Turkey Meat Bird,67200,0,1,1
+"RI, Newport",44005,Newport,Rhode Island,10/20/2022,WOAH Non-Poultry,60,1,1,1
+"MO, Newton",29145,Newton,Missouri,2/6/2025,Commercial Broiler Production; Commercial Turkey Meat Bird; Commercial Table Egg Layer,4045900,0,9,1
+"MN, Nobles",27105,Nobles,Minnesota,5/11/2023,WOAH Non-Poultry,100,0,1,1
+"PA, Northampton",42095,Northampton,Pennsylvania,8/11/2022,WOAH Poultry,90,0,1,1
+"PA, Northumberland",42097,Northumberland,Pennsylvania,12/27/2023,Commercial Raised for Release Upland Game Bird; WOAH Poultry,98980,1,2,1
+"NV, Nye",32023,Nye,Nevada,10/17/2022,WOAH Poultry,1600,1,1,1
+"MI, Oakland",26125,Oakland,Michigan,5/6/2022,WOAH Non-Poultry,150,0,2,1
+"TN, Obion",47131,Obion,Tennessee,9/15/2022,WOAH Poultry,130,0,1,1
+"IA, O Brien",19141,O'brien,Iowa,12/17/2024,Commercial Table Egg Layer,593000,0,2,1
+"NJ, Ocean",34029,Ocean,New Jersey,10/22/2022,WOAH Non-Poultry,90,0,1,1
+"WI, Oconto",55083,Oconto,Wisconsin,4/29/2022,WOAH Non-Poultry,220,0,1,1
+"WA, Okanogan",53047,Okanogan,Washington,11/1/2024,WOAH Non-Poultry,40,0,2,1
+"FL, Okeechobee",12093,Okeechobee,Florida,10/20/2022,WOAH Non-Poultry,2,0,1,1
+"MN, Olmsted",27109,Olmsted,Minnesota,12/11/2023,Commercial Turkey Breeder Hens; WOAH Non-Poultry,14520,0,2,1
+"NY, Onondaga",36067,Onondaga,New York,2/23/2024,WOAH Non-Poultry,10,0,1,1
+"NC, Onslow",37133,Onslow,North Carolina,12/9/2022,WOAH Non-Poultry,60,1,1,1
+"FL, Orange",12095,Orange,Florida,9/18/2024,Live Bird Market; WOAH Non-Poultry,3801,0,3,1
+"SC, Orangeburg",45075,Orangeburg,South Carolina,1/22/2024,WOAH Non-Poultry,40,0,1,1
+"VT, Orleans",50019,Orleans,Vermont,12/7/2023,WOAH Non-Poultry,40,0,1,1
+"NY, Orleans",36073,Orleans,New York,4/5/2022,WOAH Poultry,30,0,1,1
+"MO, Osage",29151,Osage,Missouri,12/9/2022,Commercial Turkey Meat Bird,19700,0,1,1
+"FL, Osceola",12097,Osceola,Florida,10/18/2022,WOAH Non-Poultry,30,0,2,1
+"IA, Osceola",19143,Osceola,Iowa,3/31/2022,Commercial Table Egg Layer,5011700,0,1,1
+"MI, Ottawa",26139,Ottawa,Michigan,12/31/2024,Commercial Turkey Meat Bird,447700,0,7,1
+"MN, Otter Tail",27111,Otter Tail,Minnesota,12/5/2023,Commercial Turkey Meat Bird; Commercial Breeder Operation; Commercial Turkey Breeder Hens,324500,0,12,1
+"ID, Owyhee",16073,Owyhee,Idaho,2/8/2024,WOAH Non-Poultry,39,0,2,1
+"WA, Pacific",53049,Pacific,Washington,5/5/2022,WOAH Poultry,40,0,1,1
+"FL, Palm Beach",12099,Palm Beach,Florida,1/7/2025,WOAH Non-Poultry,4,0,1,1
+"IA, Palo Alto",19147,Palo Alto,Iowa,12/11/2024,Commercial Turkey Meat Bird,31100,0,1,1
+"MT, Park",30067,Park,Montana,10/19/2023,WOAH Non-Poultry,3,0,1,1
+"WY, Park",56029,Park,Wyoming,4/6/2022,WOAH Non-Poultry,150,0,3,1
+"TX, Parmer",48369,Parmer,Texas,4/2/2024,Commercial Table Egg Layer,1894100,0,1,1
+"FL, Pasco",12101,Pasco,Florida,10/26/2022,WOAH Non-Poultry,40,0,1,1
+"OK, Pawnee",40117,Pawnee,Oklahoma,12/6/2022,WOAH Non-Poultry,30,0,1,1
+"MO, Pemiscot",29155,Pemiscot,Missouri,12/27/2024,WOAH Non-Poultry,70,0,1,1
+"MO, Perry",29157,Perry,Missouri,1/8/2025,WOAH Non-Poultry,20,0,1,1
+"MO, Phelps",29161,Phelps,Missouri,5/18/2023,WOAH Non-Poultry,80,0,1,1
+"PA, Philadelphia",42101,Philadelphia,Pennsylvania,2/24/2025,Live Bird Market,1100,0,1,1
+"KS, Phillips",20147,Phillips,Kansas,12/26/2024,WOAH Non-Poultry,70,0,2,1
+"AL, Pickens",01107,Pickens,Alabama,12/19/2024,WOAH Non-Poultry,50,1,1,1
+"WA, Pierce",53053,Pierce,Washington,12/29/2022,WOAH Non-Poultry,770,0,7,1
+"WI, Pierce",55093,Pierce,Wisconsin,5/5/2022,WOAH Non-Poultry,30,0,1,1
+"AZ, Pinal",04021,Pinal,Arizona,11/13/2024,Commercial Table Egg Layer; WOAH Non-Poultry,1145830,0,3,1
+"MN, Pine",27115,Pine,Minnesota,10/25/2023,WOAH Non-Poultry,30,0,1,1
+"MN, Pipestone",27117,Pipestone,Minnesota,6/18/2024,Commercial Turkey Meat Bird,70800,0,1,1
+"CO, Pitkin",08097,Pitkin,Colorado,12/6/2024,WOAH Non-Poultry; WOAH Poultry,80,0,2,1
+"UT, Piute",49031,Piute,Utah,11/21/2024,Commercial Turkey Meat Bird,108000,0,3,1
+"CA, Placer",06061,Placer,California,2/6/2023,WOAH Non-Poultry,50,0,2,1
+"WY, Platte",56031,Platte,Wyoming,2/12/2025,WOAH Non-Poultry,0,0,1,1
+"MA, Plymouth",25023,Plymouth,Massachusetts,1/24/2025,WOAH Non-Poultry,30,0,1,1
+"IA, Pocahontas",19151,Pocahontas,Iowa,10/24/2023,Commercial Turkey Meat Bird,50000,0,1,1
+"WV, Pocahontas",54075,Pocahontas,West Virginia,1/3/2025,WOAH Poultry,9,0,1,1
+"OR, Polk",41053,Polk,Oregon,12/15/2022,WOAH Non-Poultry,200,0,4,1
+"MN, Polk",27119,Polk,Minnesota,5/20/2022,WOAH Non-Poultry,50,0,1,1
+"WI, Polk",55095,Polk,Wisconsin,5/3/2022,WOAH Non-Poultry; Commercial Turkey Meat Bird,22160,0,3,1
+"MT, Pondera",30073,Pondera,Montana,4/29/2022,WOAH Non-Poultry,2000,0,1,1
+"AR, Pope",05115,Pope,Arkansas,12/12/2024,WOAH Non-Poultry,510,0,2,1
+"MN, Pope",27121,Pope,Minnesota,10/7/2022,WOAH Non-Poultry,30,0,1,1
+"OH, Portage",39133,Portage,Ohio,10/3/2022,WOAH Non-Poultry,90,0,2,1
+"IN, Posey",18129,Posey,Indiana,5/5/2023,WOAH Non-Poultry,20,0,1,1
+"KS, Pottawatomie",20149,Pottawatomie,Kansas,12/4/2023,WOAH Non-Poultry,30,0,1,1
+"IA, Pottawattamie",19155,Pottawattamie,Iowa,3/1/2022,WOAH Non-Poultry,40,0,1,1
+"CO, Prowers",08099,Prowers,Colorado,12/9/2022,Commercial Upland Gamebird Producer,11000,0,1,1
+"CO, Pueblo",08101,Pueblo,Colorado,4/12/2023,WOAH Non-Poultry,30,0,1,1
+"NY, Putnam",36079,Putnam,New York,4/17/2023,WOAH Poultry; WOAH Non-Poultry,370,0,3,1
+"MD, Queen Annes",24035,Queen Anne's,Maryland,3/8/2022,Commercial Broiler Production,286200,0,2,1
+"NY, Queens",36081,Queens,New York,11/12/2022,Live Bird Market,3400,0,9,1
+"WI, Racine",55101,Racine,Wisconsin,9/28/2022,Commercial Duck Meat Bird; WOAH Poultry,10220,0,2,1
+"MO, Ralls",29173,Ralls,Missouri,3/15/2022,WOAH Non-Poultry,100,0,1,1
+"IN, Randolph",18135,Randolph,Indiana,2/14/2025,WOAH Non-Poultry,70,0,1,1
+"ND, Ransom",38073,Ransom,North Dakota,11/27/2024,Commercial Turkey Meat Bird,128600,0,2,1
+"NY, Rensselaer",36083,Rensselaer,New York,3/11/2025,WOAH Non-Poultry,40,0,1,1
+"MN, Redwood",27127,Redwood,Minnesota,12/14/2022,WOAH Non-Poultry; Commercial Turkey Meat Bird,46140,0,4,1
+"MN, Renville",27129,Renville,Minnesota,7/9/2024,Commercial Turkey Breeder Hens; Commercial Turkey Meat Bird,91800,0,2,1
+"ND, Renville",38075,Renville,North Dakota,4/21/2022,WOAH Non-Poultry,70,0,1,1
+"KS, Republic",20157,Republic,Kansas,4/27/2022,WOAH Poultry,110,0,1,1
+"KS, Rice",20159,Rice,Kansas,12/19/2023,Commercial Table Egg Layer; WOAH Non-Poultry; Commercial Table Egg Pullets,1740100,0,4,1
+"MN, Rice",27131,Rice,Minnesota,4/25/2022,WOAH Non-Poultry,90,0,1,1
+"SC, Richland",45079,Richland,South Carolina,5/31/2024,WOAH Non-Poultry,30,0,1,1
+"ND, Richland",38077,Richland,North Dakota,4/26/2022,WOAH Poultry; Commercial Turkey Meat Bird,27520,0,2,1
+"NY, Richmond",36085,Richmond,New York,3/7/2025,Live Bird Market,420,0,1,1
+"CA, Riverside",06065,Riverside,California,12/31/2024,Commercial Table Egg Layer; WOAH Non-Poultry; WOAH Poultry; Commercial Table Egg Pullets,1506470,1,5,1
+"SD, Roberts",46109,Roberts,South Dakota,11/9/2023,Commercial Turkey Meat Bird; Commercial Breeder Operation,54800,0,2,1
+"WI, Rock",55105,Rock,Wisconsin,4/1/2022,WOAH Non-Poultry,20,0,1,1
+"NH, Rockingham",33015,Rockingham,New Hampshire,3/16/2022,WOAH Non-Poultry,150,0,1,1
+"VA, Rockingham",51165,Rockingham,Virginia,3/7/2023,WOAH Non-Poultry; Commercial Turkey Meat Bird,36650,0,3,1
+"TX, Rockwall",48397,Rockwall,Texas,10/19/2022,WOAH Non-Poultry,50,0,1,1
+"OK, Roger Mills",40129,Roger Mills,Oklahoma,11/21/2024,WOAH Non-Poultry,0,0,1,1
+"KS, Rooks",20163,Rooks,Kansas,12/18/2024,Commercial Raised for Release Upland Game Bird,5300,0,1,1
+"NM, Roosevelt",35041,Roosevelt,New Mexico,4/17/2024,Commercial Breeder (Multiple Bird Species),129200,0,3,1
+"MN, Roseau",27135,Roseau,Minnesota,9/21/2022,Commercial Turkey Meat Bird,116000,0,1,1
+"MT, Rosebud",30087,Rosebud,Montana,4/14/2023,WOAH Non-Poultry,0,0,1,1
+"CO, Routt",08107,Routt,Colorado,4/24/2023,WOAH Non-Poultry,20,0,1,1
+"NC, Rowan",37159,Rowan,North Carolina,5/18/2023,WOAH Non-Poultry,32,0,2,1
+"KS, Russell",20167,Russell,Kansas,3/7/2025,WOAH Non-Poultry,20,0,1,1
+"IA, Sac",19161,Sac,Iowa,12/12/2024,Commercial Turkey Meat Bird,248200,0,6,1
+"CA, Sacramento",06067,Sacramento,California,12/27/2024,Commercial Broiler Production; Commercial Turkey Meat Bird; WOAH Non-Poultry,360390,0,7,1
+"MI, Saginaw",26145,Saginaw,Michigan,4/27/2022,WOAH Non-Poultry,80,0,1,1
+"WI, St Croix",55109,Saint Croix,Wisconsin,10/13/2022,WOAH Non-Poultry,20,0,1,1
+"UT, Salt Lake",49035,Salt Lake,Utah,11/21/2024,WOAH Non-Poultry,150,0,4,1
+"NC, Sampson",37163,Sampson,North Carolina,1/28/2025,Commercial Turkey Breeder Hens; Commercial Turkey Breeder Replacement Hens,26000,0,2,1
+"CA, San Benito",06069,San Benito,California,11/30/2023,Commercial Duck Breeder,5000,0,1,1
+"CA, San Diego",06073,San Diego,California,11/3/2022,WOAH Poultry,150,0,1,1
+"CA, San Francisco",06075,San Francisco,California,5/9/2024,Live Bird Market,700,0,1,1
+"CA, San Joaquin",06077,San Joaquin,California,12/24/2024,Commercial Table Egg Layer; Commercial Duck Breeder; Commercial Duck Meat Bird; Commercial Broiler Production; WOAH Non-Poultry; Commercial Turkey Meat Bird,698278,0,8,1
+"NM, San Juan",35045,San Juan,New Mexico,11/20/2023,WOAH Non-Poultry,20,1,1,1
+"CA, San Mateo",06081,San Mateo,California,1/29/2025,WOAH Non-Poultry,4,0,1,1
+"MI, Sanilac",26151,Sanilac,Michigan,12/30/2022,WOAH Non-Poultry,30,0,1,1
+"UT, Sanpete",49039,Sanpete,Utah,11/27/2024,Commercial Turkey Meat Bird,895200,0,21,1
+"NE, Sarpy",31153,Sarpy,Nebraska,12/16/2024,WOAH Non-Poultry,30,0,1,1
+"WI, Sauk",55111,Sauk,Wisconsin,5/3/2022,WOAH Non-Poultry,40,0,1,1
+"NE, Saunders",31155,Saunders,Nebraska,2/14/2025,WOAH Non-Poultry,50,0,1,1
+"PA, Schuylkill",42107,Schuylkill,Pennsylvania,2/12/2024,WOAH Non-Poultry,30,0,1,1
+"AR, Scott",05127,Scott,Arkansas,12/14/2023,WOAH Non-Poultry,180,0,1,1
+"NE, Scotts Bluff",31157,Scotts Bluff,Nebraska,4/5/2022,WOAH Non-Poultry,37,0,2,1
+"KS, Sedgwick",20173,Sedgwick,Kansas,12/20/2024,WOAH Non-Poultry,36,0,2,1
+"FL, Seminole",12117,Seminole,Florida,11/16/2022,WOAH Poultry; WOAH Non-Poultry,260,0,2,1
+"OK, Sequoyah",40135,Sequoyah,Oklahoma,4/30/2022,Commercial Broiler Breeder,13800,0,1,1
+"AR, Sharp",05135,Sharp,Arkansas,1/3/2025,WOAH Non-Poultry,20,0,1,1
+"KS, Shawnee",20177,Shawnee,Kansas,12/5/2023,WOAH Non-Poultry; WOAH Poultry,190,0,2,1
+"WI, Sheboygan",55117,Sheboygan,Wisconsin,4/14/2022,WOAH Non-Poultry,20,0,1,1
+"IN, Shelby",18145,Shelby,Indiana,1/28/2025,WOAH Non-Poultry,60,0,1,1
+"MN, Sherburne",27141,Sherburne,Minnesota,1/10/2024,WOAH Non-Poultry,10,0,1,1
+"WY, Sheridan",56033,Sheridan,Wyoming,12/27/2024,WOAH Non-Poultry,70,1,3,1
+"NE, Sheridan",31161,Sheridan,Nebraska,4/14/2023,WOAH Non-Poultry,10,0,1,1
+"ND, Sheridan",38083,Sheridan,North Dakota,4/12/2022,WOAH Non-Poultry,30,0,1,1
+"IA, Sioux",19167,Sioux,Iowa,12/17/2024,Commercial Table Egg Layer,12108000,0,5,1
+"WA, Snohomish",53061,Snohomish,Washington,12/30/2022,WOAH Poultry; WOAH Non-Poultry,1169,1,10,1
+"CA, Sonoma",06097,Sonoma,California,12/28/2023,Commercial Table Egg Layer; Commercial Duck Meat Bird; WOAH Poultry; Commercial Duck Breeder; WOAH Non-Poultry; Commercial Broiler Production,1231956,0,13,1
+"VA, Southampton",51175,Southampton,Virginia,10/22/2022,WOAH Non-Poultry,170,0,1,1
+"SC, Spartanburg",45083,Spartanburg,South Carolina,12/31/2024,Commercial Upland Gamebird Producer,920,1,1,1
+"SD, Spink",46115,Spink,South Dakota,12/14/2022,WOAH Poultry; Commercial Turkey Meat Bird; WOAH Non-Poultry; Commercial Upland Gamebird Producer; Commercial Raised for Release Upland Game Bird,307310,0,12,1
+"WA, Spokane",53063,Spokane,Washington,5/7/2022,WOAH Non-Poultry,80,0,1,1
+"IL, St Clair",17163,St. Clair,Illinois,12/21/2022,WOAH Non-Poultry,60,0,1,1
+"MO, St Louis",29189,St. Louis,Missouri,12/12/2023,WOAH Non-Poultry,20,0,1,1
+"FL, St Lucie",12111,St. Lucie,Florida,10/18/2022,WOAH Non-Poultry,6,0,1,1
+"CA, Stanislaus",06099,Stanislaus,California,12/27/2024,Commercial Broiler Production; Commercial Table Egg Layer; Commercial Turkey Meat Bird; Commercial Duck Breeder; WOAH Poultry,2972800,0,18,1
+"OH, Stark",39151,Stark,Ohio,2/18/2025,WOAH Non-Poultry,30,0,1,1
+"MN, Stearns",27145,Stearns,Minnesota,12/19/2024,Commercial Turkey Meat Bird; WOAH Non-Poultry; Commercial Turkey Breeder Hens,794960,0,24,1
+"MN, Steele",27147,Steele,Minnesota,11/9/2023,Commercial Turkey Meat Bird,46900,0,1,1
+"WA, Stevens",53065,Stevens,Washington,11/1/2024,WOAH Non-Poultry,130,0,1,1
+"MN, Stevens",27149,Stevens,Minnesota,2/27/2024,WOAH Non-Poultry,20,0,1,1
+"MO, Stoddard",29207,Stoddard,Missouri,3/4/2022,Commercial Broiler Production,294800,0,1,1
+"ND, Stutsman",38093,Stutsman,North Dakota,4/19/2022,WOAH Poultry,60,0,2,1
+"NY, Suffolk",36103,Suffolk,New York,3/25/2022,WOAH Poultry; Commercial Upland Gamebird Producer; WOAH Non-Poultry; Commercial Duck Meat Bird,109811,0,6,1
+"NY, Sullivan",36105,Sullivan,New York,11/4/2022,WOAH Non-Poultry,140,0,1,1
+"OH, Summit",39153,Summit,Ohio,9/15/2022,WOAH Non-Poultry,6,0,1,1
+"GA, Sumter",13261,Sumter,Georgia,11/21/2023,Commercial Raised for Release Waterfowl,30000,1,1,1
+"DE, Sussex",10005,Sussex,Delaware,2/13/2025,WOAH Non-Poultry,30,0,1,1
+"MT, Sweet Grass",30097,Sweet Grass,Montana,11/9/2023,WOAH Non-Poultry,3,0,1,1
+"MN, Swift",27151,Swift,Minnesota,11/20/2023,Commercial Turkey Meat Bird; WOAH Non-Poultry,642520,0,9,1
+"WI, Taylor",55119,Taylor,Wisconsin,11/20/2023,WOAH Non-Poultry,8,0,1,1
+"IA, Taylor",19173,Taylor,Iowa,11/14/2023,Commercial Table Egg Layer,2037000,0,2,1
+"CA, Tehama",06103,Tehama,California,1/12/2023,WOAH Poultry,23700,0,1,1
+"MT, Teton",30099,Teton,Montana,9/15/2022,WOAH Poultry,2800,0,1,1
+"WA, Thurston",53067,Thurston,Washington,5/17/2022,WOAH Non-Poultry,530,0,2,1
+"OR, Tillamook",41057,Tillamook,Oregon,9/28/2022,WOAH Non-Poultry,50,0,2,1
+"PA, Tioga",42117,Tioga,Pennsylvania,2/17/2023,WOAH Non-Poultry,50,0,1,1
+"TN, Tipton",47167,Tipton,Tennessee,12/30/2024,WOAH Non-Poultry,100,1,2,1
+"MN, Todd",27153,Todd,Minnesota,12/27/2023,Commercial Turkey Meat Bird; WOAH Non-Poultry,304500,1,9,1
+"NY, Tompkins",36109,Tompkins,New York,3/22/2023,WOAH Poultry,6500,0,1,1
+"MT, Toole",30101,Toole,Montana,4/12/2022,WOAH Non-Poultry,20,0,1,1
+"GA, Toombs",13279,Toombs,Georgia,6/1/2022,WOAH Non-Poultry,490,0,1,1
+"ND, Traill",38097,Traill,North Dakota,10/18/2022,WOAH Non-Poultry,90,0,1,1
+"WI, Trempealeau",55121,Trempealeau,Wisconsin,11/28/2023,Commercial Turkey Meat Bird,123500,0,3,1
+"CA, Tulare",06107,Tulare,California,12/14/2024,Commercial Duck Meat Bird; Commercial Broiler Production; Commercial Duck Breeder; WOAH Non-Poultry,1801930,0,9,1
+"OK, Tulsa",40143,Tulsa,Oklahoma,10/14/2022,WOAH Non-Poultry,30,0,1,1
+"CA, Tuolumne",06109,Tuolumne,California,9/1/2022,Commercial Turkey Meat Bird,290900,0,4,1
+"SD, Turner",46125,Turner,South Dakota,11/25/2022,WOAH Non-Poultry,210,0,1,1
+"MI, Tuscola",26157,Tuscola,Michigan,10/3/2022,WOAH Poultry,140,0,1,1
+"ID, Twin Falls",16083,Twin Falls,Idaho,12/30/2024,WOAH Non-Poultry,120,1,4,1
+"NY, Ulster",36111,Ulster,New York,2/24/2022,WOAH Non-Poultry,130,0,2,1
+"OR, Umatilla",41059,Umatilla,Oregon,12/21/2022,WOAH Non-Poultry,110,1,3,1
+"NC, Union",37179,Union,North Carolina,12/2/2022,WOAH Non-Poultry,59,0,2,1
+"OR, Union",41061,Union,Oregon,11/27/2024,WOAH Non-Poultry; WOAH Poultry,540,0,4,1
+"OH, Union",39159,Union,Ohio,11/21/2023,Commercial Table Egg Layer,1348900,0,1,1
+"NJ, Union",34039,Union,New Jersey,9/15/2023,Live Bird Market,1360,0,2,1
+"IN, Union",18161,Union,Indiana,2/25/2025,WOAH Non-Poultry,40,0,1,1
+"UT, Utah",49049,Utah,Utah,12/3/2024,WOAH Non-Poultry,367,1,4,1
+"ID, Valley",16085,Valley,Idaho,10/20/2022,WOAH Non-Poultry,20,0,1,1
+"OH, Van Wert",39161,Van Wert,Ohio,1/30/2025,Commercial Turkey Meat Bird,21400,0,1,1
+"PA, Venango",42121,Venango,Pennsylvania,10/30/2024,WOAH Non-Poultry,20,0,1,1
+"VA, Virginia Beach City",51810,Virginia Beach City,Virginia,10/20/2022,WOAH Non-Poultry,220,0,2,1
+"MN, Wadena",27159,Wadena,Minnesota,12/12/2022,Commercial Turkey Meat Bird,594400,0,2,1
+"OK, Wagoner",40145,Wagoner,Oklahoma,10/31/2023,WOAH Non-Poultry,50,0,1,1
+"NC, Wake",37183,Wake,North Carolina,10/21/2022,WOAH Non-Poultry,170,0,1,1
+"ME, Waldo",23027,Waldo,Maine,4/5/2022,WOAH Non-Poultry,50,0,1,1
+"WA, Walla Walla",53071,Walla Walla,Washington,8/18/2022,WOAH Non-Poultry,2,0,1,1
+"SD, Walworth",46129,Walworth,South Dakota,11/20/2023,WOAH Non-Poultry,0,0,1,1
+"ND, Ward",38101,Ward,North Dakota,11/10/2022,WOAH Poultry,80,0,2,1
+"NJ, Warren",34041,Warren,New Jersey,10/13/2022,WOAH Non-Poultry,6,0,1,1
+"IA, Warren",19181,Warren,Iowa,3/20/2022,WOAH Non-Poultry,10,0,1,1
+"MN, Waseca",27161,Waseca,Minnesota,12/15/2023,WOAH Non-Poultry; Commercial Turkey Meat Bird,63790,0,4,1
+"WY, Washakie",56043,Washakie,Wyoming,12/6/2024,WOAH Non-Poultry,20,0,1,1
+"WI, Washburn",55129,Washburn,Wisconsin,1/5/2024,Commercial Turkey Meat Bird,41000,0,1,1
+"MD, Washington",24043,Washington,Maryland,11/29/2022,Commercial Table Egg Breeder,24600,1,1,1
+"ME, Washington",23029,Washington,Maine,11/21/2022,WOAH Non-Poultry,110,1,2,1
+"PA, Washington",42125,Washington,Pennsylvania,9/20/2022,WOAH Poultry,1800,0,1,1
+"WI, Washington",55131,Washington,Wisconsin,9/2/2022,WOAH Poultry,120,0,1,1
+"NE, Washington",31177,Washington,Nebraska,4/29/2022,WOAH Non-Poultry,50,0,1,1
+"NY, Washington",36115,Washington,New York,3/21/2023,WOAH Non-Poultry,50,0,1,1
+"IN, Washington",18175,Washington,Indiana,2/21/2025,Commercial Turkey Meat Bird,33500,0,2,1
+"RI, Washington",44009,Washington,Rhode Island,1/24/2025,WOAH Non-Poultry,50,0,1,1
+"WI, Waukesha",55133,Waukesha,Wisconsin,11/2/2022,WOAH Non-Poultry,10,0,1,1
+"NY, Wayne",36117,Wayne,New York,11/1/2022,WOAH Non-Poultry,10,0,1,1
+"NC, Wayne",37191,Wayne,North Carolina,4/12/2022,Commercial Broiler Production; Commercial Turkey Meat Bird,420900,0,6,1
+"IL, Wayne",17191,Wayne,Illinois,2/24/2023,Commercial Turkey Meat Bird,18200,0,1,1
+"PA, Wayne",42127,Wayne,Pennsylvania,2/6/2024,WOAH Non-Poultry,360,0,1,1
+"MI, Wayne",26163,Wayne,Michigan,1/16/2025,WOAH Non-Poultry,120,0,1,1
+"TN, Weakley",47183,Weakley,Tennessee,12/28/2022,Commercial Broiler Breeder; WOAH Poultry; Commercial Broiler Production,397100,0,5,1
+"UT, Weber",49057,Weber,Utah,8/24/2022,WOAH Non-Poultry,20,0,1,1
+"MO, Webster",29225,Webster,Missouri,11/28/2022,Commercial Turkey Meat Bird; WOAH Poultry,24200,0,2,1
+"KY, Webster",21233,Webster,Kentucky,2/15/2022,Commercial Turkey Meat Bird,53300,0,1,1
+"CO, Weld",08123,Weld,Colorado,12/20/2022,Commercial Table Egg Layer; WOAH Non-Poultry; Commercial Table Egg Pullets; WOAH Poultry,9594510,1,17,1
+"NY, Westchester",36119,Westchester,New York,2/26/2025,WOAH Non-Poultry,100,0,1,1
+"PA, Westmoreland",42129,Westmoreland,Pennsylvania,10/4/2022,WOAH Non-Poultry,160,0,1,1
+"MI, Wexford",26165,Wexford,Michigan,4/28/2022,WOAH Poultry,70,0,1,1
+"WA, Whatcom",53073,Whatcom,Washington,11/19/2024,WOAH Non-Poultry,120,0,2,1
+"MT, Wheatland",30107,Wheatland,Montana,11/9/2023,WOAH Poultry,4500,0,1,1
+"IL, Will",17197,Will,Illinois,3/4/2025,WOAH Non-Poultry,50,0,1,1
+"ND, Williams",38105,Williams,North Dakota,10/12/2023,WOAH Non-Poultry,10,0,1,1
+"OH, Williams",39171,Williams,Ohio,9/14/2022,WOAH Non-Poultry,60,0,1,1
+"VT, Windsor",50027,Windsor,Vermont,1/24/2025,WOAH Non-Poultry,20,0,1,1
+"IA, Woodbury",19193,Woodbury,Iowa,12/1/2023,WOAH Non-Poultry,50,0,2,1
+"MD, Worcester",24047,Worcester,Maryland,2/4/2025,Commercial Broiler Production,201600,0,1,1
+"IA, Worth",19195,Worth,Iowa,12/17/2024,Commercial Turkey Meat Bird,19500,0,1,1
+"IA, Wright",19197,Wright,Iowa,11/6/2022,Commercial Table Egg Layer,2122800,0,2,1
+"MN, Wright",27171,Wright,Minnesota,11/3/2023,Commercial Table Egg Layer,940000,0,1,1
+"WA, Yakima",53077,Yakima,Washington,6/29/2022,WOAH Non-Poultry,196,0,4,1
+"OR, Yamhill",41071,Yamhill,Oregon,11/3/2022,WOAH Poultry,150,0,1,1
+"SD, Yankton",46135,Yankton,South Dakota,11/28/2023,Commercial Turkey Meat Bird; WOAH Non-Poultry,125150,0,3,1
+"AZ, Yavapai",04025,Yavapai,Arizona,11/3/2022,WOAH Non-Poultry,80,0,2,1
+"MN, Yellow Medicine",27173,Yellow Medicine,Minnesota,4/22/2022,Commercial Turkey Meat Bird,94300,0,2,1
+"CA, Yolo",06113,Yolo,California,1/23/2025,WOAH Non-Poultry,6,0,1,1
+"NE, York",31185,York,Nebraska,10/18/2022,Commercial Upland Gamebird Producer,174400,0,2,1
+"PA, York",42133,York,Pennsylvania,9/29/2022,Commercial Turkey Meat Bird,25900,0,1,1
+"ME, York",23031,York,Maine,3/19/2022,WOAH Non-Poultry,310,0,3,1
+"CO, Yuma",08125,Yuma,Colorado,3/28/2023,WOAH Poultry,310,0,1,1
